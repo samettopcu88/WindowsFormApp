@@ -55,7 +55,7 @@ namespace WindowsFormApp
                 }
             }
             else
-                MessageBox.Show("Kullanýcý Adý veya Parola Boþ Geçilemez", "Uyarý Mesajý", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                MessageBox.Show("Kullanýcý Adý ve Parola Boþ Geçilemez", "Uyarý Mesajý", MessageBoxButtons.OK, MessageBoxIcon.Stop);
 
         }
 
